@@ -1,0 +1,10 @@
+{
+    "database": {
+        "url": "postgres://postgres:rootroot@db:5432/aiplus_users_test?sslmode=disable",
+        "key": "POSTGRES"
+    },
+    "server": {
+        "host": "localhost",
+        "port": 8080
+    }
+}
